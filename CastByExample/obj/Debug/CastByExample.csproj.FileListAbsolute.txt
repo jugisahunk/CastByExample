@@ -1,1 +1,6 @@
 D:\Users\jason.knight\Documents\GitHub\CastByExample\CastByExample\bin\Debug\CastByExample.exe.config
+D:\Users\jason.knight\Documents\GitHub\CastByExample\CastByExample\bin\Debug\CastByExample.exe
+D:\Users\jason.knight\Documents\GitHub\CastByExample\CastByExample\bin\Debug\CastByExample.pdb
+D:\Users\jason.knight\Documents\GitHub\CastByExample\CastByExample\obj\Debug\CastByExample.csprojResolveAssemblyReference.cache
+D:\Users\jason.knight\Documents\GitHub\CastByExample\CastByExample\obj\Debug\CastByExample.exe
+D:\Users\jason.knight\Documents\GitHub\CastByExample\CastByExample\obj\Debug\CastByExample.pdb
